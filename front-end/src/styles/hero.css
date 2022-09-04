@@ -1,0 +1,18 @@
+.quick-info {
+    padding: 3vw;
+    background-color: green;
+    color: white;
+    height: 480px;
+}
+
+@media only screen and (max-width: 1100px) {
+    .quick-info {
+        height: 540px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .quick-info {
+        height: 800px;
+    }
+}

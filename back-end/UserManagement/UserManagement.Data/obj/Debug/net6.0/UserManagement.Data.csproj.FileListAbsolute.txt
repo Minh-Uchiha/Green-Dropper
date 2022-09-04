@@ -1,0 +1,12 @@
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\bin\Debug\net6.0\UserManagement.Data.deps.json
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\bin\Debug\net6.0\UserManagement.Data.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\bin\Debug\net6.0\UserManagement.Data.pdb
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.csproj.AssemblyReference.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.AssemblyInfoInputs.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.AssemblyInfo.cs
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.csproj.CoreCompileInputs.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\refint\UserManagement.Data.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\UserManagement.Data.pdb
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Data\obj\Debug\net6.0\ref\UserManagement.Data.dll

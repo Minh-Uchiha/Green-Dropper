@@ -1,0 +1,7 @@
+.options {
+    display: flex;
+    width: 15vw;
+    min-width: 150px;
+    justify-content: space-between;
+    align-items: center;
+}

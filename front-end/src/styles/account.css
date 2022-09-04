@@ -1,0 +1,20 @@
+.account-nav {
+    cursor: pointer;
+    transition: all 0.8s;
+}
+
+.account-nav .account-link {
+    text-decoration: none;
+    color: green;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all 0.8s;
+}
+
+.account-nav:hover {
+    transform: translateY(-5px);
+}
+
+.account-nav .account-link:hover {
+    color: rgb(11, 199, 11);
+}

@@ -1,0 +1,20 @@
+.sign-up {
+    cursor: pointer;
+    transition: all 0.8s;
+}
+
+.sign-up .sign-up-link {
+    text-decoration: none;
+    color: green;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all 0.8s;
+}
+
+.sign-up:hover {
+    transform: translateY(-5px);
+}
+
+.sign-up .sign-up-link:hover {
+    color: rgb(11, 199, 11);
+}

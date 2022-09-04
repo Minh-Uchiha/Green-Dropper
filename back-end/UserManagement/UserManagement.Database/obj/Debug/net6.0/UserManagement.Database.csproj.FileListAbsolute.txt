@@ -1,0 +1,17 @@
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Database.deps.json
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Database.runtimeconfig.json
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Database.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Database.pdb
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Data.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\bin\Debug\net6.0\UserManagement.Data.pdb
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.csproj.AssemblyReference.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.AssemblyInfoInputs.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.AssemblyInfo.cs
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.csproj.CoreCompileInputs.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.csproj.CopyComplete
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\refint\UserManagement.Database.dll
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.pdb
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\UserManagement.Database.genruntimeconfig.cache
+G:\Programming Projects\Web projects\EcoHacks\back-end\UserManagement\UserManagement.Database\obj\Debug\net6.0\ref\UserManagement.Database.dll

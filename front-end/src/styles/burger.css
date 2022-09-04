@@ -1,0 +1,53 @@
+.burger {
+    position: relative;
+    cursor: pointer;
+    width: 25px;
+    height: 24px;
+    transition: all 0.8s;
+}
+
+.burger div {
+    height: 5px;
+    width: 25px;
+    background-color: green;
+    position: absolute;
+    transition: all 0.8s;
+}
+
+.burger:hover {
+    transform: translateY(-5px);
+}
+
+.burger .mid {
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.burger .top {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.burger .bot {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.burger.active .top {
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotateZ(45deg);
+}
+
+.burger.active .bot {
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotateZ(-45deg);
+}
+
+.burger.active .mid {
+    display: none;
+}

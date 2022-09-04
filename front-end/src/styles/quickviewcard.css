@@ -1,0 +1,9 @@
+.quickview-card {
+    margin: 10px 10px;
+    box-shadow: 0 0 20px 2px #042a0c;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}

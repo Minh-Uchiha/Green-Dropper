@@ -1,0 +1,29 @@
+.info {
+    margin-top: 50px;
+    padding: 0 3vw 50px;
+}
+
+.info-container {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-top: 60px;
+}
+
+.detailed-info-container {
+    padding: 0 20px;
+    position: relative;
+}
+
+.descriptions p span {
+    font-weight: 700;
+    color: green;
+}
+
+@media screen and (max-width: 800px) {
+    .info-container {
+        grid-template-columns: auto;
+        grid-template-rows: auto auto;
+    }
+
+}
+
